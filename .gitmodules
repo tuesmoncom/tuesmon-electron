@@ -1,0 +1,18 @@
+[submodule "tuesmon-front-dist"]
+	path = tuesmon-front-dist
+	url = https://github.com/tuesmoncom/tuesmon-front-dist
+[submodule "plugins/tuesmon-contrib-slack"]
+	path = plugins/tuesmon-contrib-slack
+	url = https://github.com/tuesmoncom/tuesmon-contrib-slack
+[submodule "plugins/tuesmon-contrib-hipchat"]
+	path = plugins/tuesmon-contrib-hipchat
+	url = https://github.com/tuesmoncom/tuesmon-contrib-hipchat
+[submodule "plugins/tuesmon-contrib-github-auth"]
+	path = plugins/tuesmon-contrib-github-auth
+	url = https://github.com/tuesmoncom/tuesmon-contrib-github-auth
+[submodule "plugins/tuesmon-contrib-mailchimp-subscription"]
+	path = plugins/tuesmon-contrib-mailchimp-subscription
+	url = https://github.com/tuesmoncom/tuesmon-contrib-mailchimp-subscription
+[submodule "plugins/tuesmon-contrib-cookie-warning"]
+	path = plugins/tuesmon-contrib-cookie-warning
+	url = https://github.com/tuesmoncom/tuesmon-contrib-cookie-warning
