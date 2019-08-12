@@ -1,0 +1,22 @@
+{
+    "api": "https://api.tuesmon.com/api/v1/",
+    "subscriptionsAPI": "https://subscriptions.tuesmon.com/api/v1/",
+    "stripeKey": "pk_live_dx8gxpc0HrNeyMZBwZM1apOc",
+    "quadernoKey": "pk_live_Kzy7prCujY3yAxXxVJhf",
+    "eventsUrl": "wss://api.tuesmon.com/events",
+    "tribeHost": "https://tribe.tuesmon.com",
+    "debug": "false",
+    "publicRegisterEnabled": true,
+    "feedbackEnabled": true,
+    "privacyPolicyUrl": "https://tuesmon.com/privacy-policy.html",
+    "termsOfServiceUrl": "https://tuesmon.com/terms-of-service.html",
+    "maxUploadFileSize": 104857600,
+    "ravenConfig": null,
+    "gitHubClientId": "6b350db81d47406377cf",
+    "contribPlugins": [
+        "/plugins/github-auth/github-auth.json",
+        "/plugins/hipchat/hipchat.json",
+        "/plugins/mailchimp-subscription/mailchimp-subscription.json",
+        "/plugins/slack/slack.json"
+    ]
+}
